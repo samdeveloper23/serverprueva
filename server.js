@@ -4,7 +4,7 @@ const puerto = 8000;
 
 // Ruta para decir "Hola"
 server.get('/hola', (req, res) => {
-    res.send('Hola');
+    res.send('Hola socio ya esta el servidor montado para ganar verdadera pasta');
 });
 
 // Ruta para decir "Adiós"
